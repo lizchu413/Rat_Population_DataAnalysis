@@ -1,9 +1,8 @@
 # Rat Population Data Analysis - New York City
 
 <hr>
-## Final File: 
 
-To view our final file, open `final_html.pdf`. 
+Final File: To view our final file, open `final_html.pdf`. 
 
 ## Descriptions of Datasets
 
